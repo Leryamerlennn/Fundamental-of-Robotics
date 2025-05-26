@@ -18,7 +18,7 @@ These assignments demonstrate core competencies in robotic systems development �
 
 ---
 
-###  Assignment 2 – Differential Kinematics ([Notebook](assignment-2/FR_ASSIGMENT_2.ipynb))
+###  Assignment 2 – Differential Kinematics ([Notebook](assignment-2/FR_Assigment_2.ipynb))
 - Jacobian matrix derivation
 - Elbow and wrist singularities analysis
 - End-effector velocity via direct and inverse Jacobian
@@ -27,7 +27,7 @@ These assignments demonstrate core competencies in robotic systems development �
 
 ---
 
-###  Assignment 3 – Trajectory Planning ([Notebook](assignment-3/FR_ASSIGMENT_3.ipynb))
+###  Assignment 3 – Trajectory Planning ([Notebook](assignment-3/FR_Assigment_3.ipynb))
 - Joint space trajectory with position/velocity/acceleration plots
 - Joint synchronization (6 DOF) with 120 Hz controller
 - Error analysis in EE motion
@@ -36,7 +36,7 @@ These assignments demonstrate core competencies in robotic systems development �
 
 ---
 
-###  Assignment 4 – Robot Dynamics ([Notebook](assignment-4/FR_ASSIGMENT_4.ipynb))
+###  Assignment 4 – Robot Dynamics ([Notebook](assignment-4/FR_Assigment_4.ipynb))
 - Dynamic model using Euler-Lagrange method:
   - Inertia matrix `M(q)`
   - Coriolis matrix `C(q, q̇)`
