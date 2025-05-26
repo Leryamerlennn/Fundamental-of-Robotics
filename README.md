@@ -1,8 +1,22 @@
-# 🤖 Fundamental of Robotics – Assignments Portfolio
+# 🤖 Robotic Manipulator Modeling & Control – Full Stack Assignments Portfolio
 
-This repository contains a series of practical assignments completed as part of the **"Fundamentals of Robotics"** course. Each task focuses on a different aspect of robotic manipulation: from kinematics and trajectory planning to dynamics.
+This repository contains a structured series of practical assignments completed as part of the **Fundamentals of Robotics** course.
 
-These assignments demonstrate core competencies in robotic systems development — relevant to both low-level control (e.g., FK/IK, Jacobian, dynamics) and high-level motion planning (e.g., trajectory generation and synchronization). The code is written in Python, with symbolic and numerical solutions developed from scratch.
+From modeling a 6-DOF manipulator to simulating dynamic motion and torque, these tasks cover the full stack of robotic arm development — including kinematics, differential analysis, trajectory planning, and dynamics.  
+The entire pipeline is implemented in **Python** using symbolic (`sympy`) and numerical (`numpy`) methods — **from scratch**, without robotics libraries.
+
+---
+
+##  What I Learned / What I Can Do
+
+✅ Model robotic manipulators in 3D with full kinematic chains  
+✅ Derive and implement forward & inverse kinematics   
+✅ Compute Jacobians and analyze singularities  
+✅ Design smooth, synchronized joint & Cartesian trajectories  
+✅ Simulate robot dynamics and calculate torques  
+✅ Write reusable, object-oriented robotic control code in Python  
+✅ Visualize motion, workspace, and joint states with plots  
+
 
 ---
 
